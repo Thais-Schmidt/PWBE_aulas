@@ -1,0 +1,36 @@
+npm i 
+npm i node
+npm init
+
+no insonia - 
+
+ao lado de file clicar em '+'
+renomear o get 
+como criamos uma porta e colocamos ela para rodar pelo node, escrevemos localhost:8080 na barra e clicamos em SEND
+
+npm install -g nodemon // instalar o nodemon global, para nao precisar ficar instalando toda hora
+
+abrimos o windows powershell - clicar com lado direito e abrir como administrador
+
+Set-ExecutionPolicy RemoteSigned 
+
+Esperar a pergunta e responder [A] -> sim para todos
+
+executar o app.js pelo nodemon  -> nodemon .\App.js
+
+para acrescentar - 
+
+mudar de get para POST na barra de pesquisa do inmsonia, e mudar o body para json 
+
+------------
+
+criamos outro js para o banco de dados
+
+ciramos outro banco de dados e uma tabela simples
+
+npm i mysql2 
+
+
+
+
+
