@@ -1,0 +1,14 @@
+{
+  "name": "aula06",
+  "version": "1.0.0",
+  "description": "- O objetivo dessa aula é criar um aplicativo realize a leitura de arquivo do tipo **JSON** e permita salvar essas informações em um banco de dados através de uma API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
